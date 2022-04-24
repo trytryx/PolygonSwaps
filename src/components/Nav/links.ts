@@ -8,6 +8,10 @@ const links: NavProps['links'] = [
   {
     label: 'Liquidity',
     href: '/pool'
+  },
+{
+    label: 'Exchange',
+    href: 'https://polyowl-frontend-main.vercel.app/'
   }
 ]
 
